@@ -1,0 +1,8 @@
+{
+  "name": "php-cs-fixer/declare-strict-types-bug",
+  "description": "Simple project to illustrate a bug",
+  "license": "MIT",
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^3.43"
+  }
+}
